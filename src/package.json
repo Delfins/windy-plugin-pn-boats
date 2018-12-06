@@ -1,0 +1,11 @@
+{
+  "name": "windy-plugin-pn-boats",
+  "version": "0.0.4",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "plugin.js",
+  "repository": "",
+  "author": "Progetto Automazione",
+  "dependencies": {
+    "riot-compiler": "^3.5.2"
+  }
+}
